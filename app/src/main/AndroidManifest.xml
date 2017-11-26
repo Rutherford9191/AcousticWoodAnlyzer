@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.joshua.acoustics">
+    package="com.tie.peter.Acoustics">
 
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="com.tie.peter.com.tie.peter.Acoustics.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -24,12 +24,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".GiutarTuner.TunerActivity"
+            android:name="com.tie.peter.com.tie.peter.Acoustics.GiutarTuner.TunerActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/app_name">
         </activity>
         <activity
-            android:name=".ViolinTuner.TunerActivity"
+            android:name="com.tie.peter.com.tie.peter.Acoustics.ViolinTuner.TunerActivity"
             android:label="@string/app_launcher_name"
             android:theme="@style/main_theme"
             android:screenOrientation="unspecified"
@@ -37,17 +37,17 @@
             >
         </activity>
 
-        <activity android:name=".ViolinTuner.HelpActivity"
+        <activity android:name="com.tie.peter.com.tie.peter.Acoustics.ViolinTuner.HelpActivity"
             android:stateNotNeeded="true"
             android:excludeFromRecents="true"
             />
 
         <activity
-            android:name=".ViolinTuner.SettingsActivity"
+            android:name="com.tie.peter.com.tie.peter.Acoustics.ViolinTuner.SettingsActivity"
             android:theme="@style/main_theme"
             android:excludeFromRecents="true"
             />
-        <receiver android:name=".GiutarTuner.NotificationPublishReceiver" />
+        <receiver android:name="com.tie.peter.com.tie.peter.Acoustics.GiutarTuner.NotificationPublishReceiver" />
 
     </application>
 

@@ -1,10 +1,10 @@
-package com.example.joshua.Acoustics.GiutarTuner;
+package com.tie.peter.Acoustics.GiutarTuner;
 
 import android.media.AudioFormat;
 import android.media.AudioManager;
 import android.media.AudioTrack;
 
-import com.example.joshua.Acoustics.GiutarTuner.util.AudioUtils;
+import com.tie.peter.Acoustics.GiutarTuner.util.AudioUtils;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,5 +1,5 @@
 
-package com.example.joshua.Acoustics.ViolinTuner;
+package com.tie.peter.Acoustics.ViolinTuner;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -9,7 +9,7 @@ import android.text.util.Linkify;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.example.joshua.Acoustics.R;
+import com.tie.peter.Acoustics.R;
 
 public class HelpActivity extends Activity {
     private static final int[] HAS_LINKS = {R.id.changelog, R.id.faq, R.id.website,

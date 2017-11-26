@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner.view;
+package com.tie.peter.Acoustics.GiutarTuner.view;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -9,9 +9,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 
-import com.example.joshua.Acoustics.GiutarTuner.Note;
-import com.example.joshua.Acoustics.GiutarTuner.TunerUpdate;
-import com.example.joshua.Acoustics.GiutarTuner.tarsos.PitchDetectionResult;
+import com.tie.peter.Acoustics.GiutarTuner.Note;
+import com.tie.peter.Acoustics.GiutarTuner.TunerUpdate;
+import com.tie.peter.Acoustics.GiutarTuner.tarsos.PitchDetectionResult;
 
 public class CircleTunerView extends RelativeLayout implements TunerUpdate {
     private static final String TAG = CircleTunerView.class.getSimpleName();

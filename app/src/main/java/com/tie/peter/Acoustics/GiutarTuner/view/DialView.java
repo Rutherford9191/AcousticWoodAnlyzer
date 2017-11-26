@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner.view;
+package com.tie.peter.Acoustics.GiutarTuner.view;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -13,8 +13,8 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.example.joshua.Acoustics.GiutarTuner.Note;
-import com.example.joshua.Acoustics.R;
+import com.tie.peter.Acoustics.GiutarTuner.Note;
+import com.tie.peter.Acoustics.R;
 
 import java.util.ArrayList;
 import java.util.List;

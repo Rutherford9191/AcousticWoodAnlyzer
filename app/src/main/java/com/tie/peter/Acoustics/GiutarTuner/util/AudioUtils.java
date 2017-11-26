@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner.util;
+package com.tie.peter.Acoustics.GiutarTuner.util;
 
 import android.media.AudioFormat;
 import android.media.AudioRecord;

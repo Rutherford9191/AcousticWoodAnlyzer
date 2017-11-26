@@ -1,9 +1,9 @@
-package com.example.joshua.Acoustics.GiutarTuner.view;
+package com.tie.peter.Acoustics.GiutarTuner.view;
 
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;
 
-import com.example.joshua.Acoustics.GiutarTuner.Note;
+import com.tie.peter.Acoustics.GiutarTuner.Note;
 
 /**
  *  This class encapsulates an ObjectAnimator which will be used to animate

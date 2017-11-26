@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner;
+package com.tie.peter.Acoustics.GiutarTuner;
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -7,7 +7,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.support.v4.app.NotificationCompat;
 
-import com.example.joshua.Acoustics.R;
+import com.tie.peter.Acoustics.R;
 
 public class NotificationPublishReceiver extends BroadcastReceiver {
     public static final String NOTIFICATION_TITLE = "Stay in tune!";

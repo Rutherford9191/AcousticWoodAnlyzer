@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner.view;
+package com.tie.peter.Acoustics.GiutarTuner.view;
 
 
 import android.content.Context;
@@ -22,7 +22,7 @@ import android.support.annotation.DrawableRes;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
-import com.example.joshua.Acoustics.R;
+import com.tie.peter.Acoustics.R;
 
 public class CircleImageView extends ImageView {
     private static final String TAG = CircleImageView.class.getSimpleName();

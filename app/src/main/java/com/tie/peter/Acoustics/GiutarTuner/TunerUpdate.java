@@ -1,6 +1,6 @@
-package com.example.joshua.Acoustics.GiutarTuner;
+package com.tie.peter.Acoustics.GiutarTuner;
 
-import com.example.joshua.Acoustics.GiutarTuner.tarsos.PitchDetectionResult;
+import com.tie.peter.Acoustics.GiutarTuner.tarsos.PitchDetectionResult;
 
 public interface TunerUpdate {
 

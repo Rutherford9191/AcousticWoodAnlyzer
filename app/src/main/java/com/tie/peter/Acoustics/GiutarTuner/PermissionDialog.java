@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner;
+package com.tie.peter.Acoustics.GiutarTuner;
 
 import android.Manifest;
 import android.app.AlertDialog;
@@ -7,7 +7,7 @@ import android.content.DialogInterface;
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
 
-import com.example.joshua.Acoustics.GiutarTuner.util.PermissionUtils;
+import com.tie.peter.Acoustics.GiutarTuner.util.PermissionUtils;
 
 public class PermissionDialog extends DialogFragment {
     public static final String TAG = PermissionDialog.class.getSimpleName();

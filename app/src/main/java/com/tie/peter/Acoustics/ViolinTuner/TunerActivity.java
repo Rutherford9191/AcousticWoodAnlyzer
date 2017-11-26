@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.ViolinTuner;
+package com.tie.peter.Acoustics.ViolinTuner;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -27,7 +27,7 @@ import be.tarsos.dsp.pitch.PitchDetectionResult;
 import be.tarsos.dsp.pitch.PitchProcessor;
 import be.tarsos.dsp.pitch.PitchProcessor.PitchEstimationAlgorithm;
 
-import com.example.joshua.Acoustics.R;
+import com.tie.peter.Acoustics.R;
 
 
 public class TunerActivity extends Activity {

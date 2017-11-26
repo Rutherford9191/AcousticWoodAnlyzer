@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.ViolinTuner;
+package com.tie.peter.Acoustics.ViolinTuner;
 
 import android.content.ComponentName;
 import android.content.Context;
@@ -17,7 +17,7 @@ import android.preference.PreferenceScreen;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.example.joshua.Acoustics.R;
+import com.tie.peter.Acoustics.R;
 
 
 public class SettingsActivity extends PreferenceActivity implements OnSharedPreferenceChangeListener {

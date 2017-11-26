@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner;
+package com.tie.peter.Acoustics.GiutarTuner;
 
 import android.animation.Animator;
 import android.app.AlarmManager;
@@ -16,7 +16,7 @@ import android.widget.Toast;
 
 import java.util.Calendar;
 
-import com.example.joshua.Acoustics.R;
+import com.tie.peter.Acoustics.R;
 
 public class TunerActivity extends AppCompatActivity {
     private static final String TAG = TunerActivity.class.getSimpleName();

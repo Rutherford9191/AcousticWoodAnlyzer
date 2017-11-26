@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner.tarsos;
+package com.tie.peter.Acoustics.GiutarTuner.tarsos;
 
 /**
  * A pitch detector is capable of analyzing a buffer with audio information

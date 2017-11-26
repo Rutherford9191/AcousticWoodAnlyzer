@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner.view;
+package com.tie.peter.Acoustics.GiutarTuner.view;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -15,9 +15,9 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.joshua.Acoustics.GiutarTuner.Note;
-import com.example.joshua.Acoustics.GiutarTuner.TunerUpdate;
-import com.example.joshua.Acoustics.GiutarTuner.tarsos.PitchDetectionResult;
+import com.tie.peter.Acoustics.GiutarTuner.Note;
+import com.tie.peter.Acoustics.GiutarTuner.TunerUpdate;
+import com.tie.peter.Acoustics.GiutarTuner.tarsos.PitchDetectionResult;
 
 import java.text.DecimalFormat;
 

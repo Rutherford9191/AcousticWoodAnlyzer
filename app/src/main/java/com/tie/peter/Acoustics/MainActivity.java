@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics;
+package com.tie.peter.Acoustics;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -13,7 +13,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.example.joshua.Acoustics.GiutarTuner.TunerActivity;
+import com.tie.peter.Acoustics.GiutarTuner.TunerActivity;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener,
@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.guitar_tuner) {
             startActivity(new Intent(this, TunerActivity.class));
         } else if (id == R.id.violin_tuner) {
-            startActivity(new Intent(this, com.example.joshua.Acoustics.ViolinTuner.TunerActivity.class));
+            startActivity(new Intent(this, com.tie.peter.Acoustics.ViolinTuner.TunerActivity.class));
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

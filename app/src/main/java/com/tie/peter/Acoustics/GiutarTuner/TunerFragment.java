@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner;
+package com.tie.peter.Acoustics.GiutarTuner;
 
 import android.Manifest;
 import android.os.Bundle;
@@ -7,10 +7,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.joshua.Acoustics.GiutarTuner.util.PermissionUtils;
-import com.example.joshua.Acoustics.GiutarTuner.view.DialView;
-import com.example.joshua.Acoustics.GiutarTuner.view.TunerView;
-import com.example.joshua.Acoustics.R;
+import com.tie.peter.Acoustics.GiutarTuner.util.PermissionUtils;
+import com.tie.peter.Acoustics.GiutarTuner.view.DialView;
+import com.tie.peter.Acoustics.GiutarTuner.view.TunerView;
+import com.tie.peter.Acoustics.R;
 
 public class TunerFragment extends Fragment {
     public static final String TAG = TunerFragment.class.getSimpleName();

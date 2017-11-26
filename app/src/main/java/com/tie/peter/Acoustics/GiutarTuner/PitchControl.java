@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner;
+package com.tie.peter.Acoustics.GiutarTuner;
 
 public interface PitchControl {
 

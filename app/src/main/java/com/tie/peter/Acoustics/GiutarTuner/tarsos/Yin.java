@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner.tarsos;
+package com.tie.peter.Acoustics.GiutarTuner.tarsos;
 
 /**
  * An implementation of the AUBIO_YIN pitch tracking algorithm. See <a href=

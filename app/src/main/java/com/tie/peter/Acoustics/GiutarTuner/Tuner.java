@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.GiutarTuner;
+package com.tie.peter.Acoustics.GiutarTuner;
 
 import android.media.AudioFormat;
 import android.media.AudioRecord;
@@ -6,9 +6,9 @@ import android.media.MediaRecorder;
 import android.os.Handler;
 import android.os.Looper;
 
-import com.example.joshua.Acoustics.GiutarTuner.tarsos.PitchDetectionResult;
-import com.example.joshua.Acoustics.GiutarTuner.tarsos.Yin;
-import com.example.joshua.Acoustics.GiutarTuner.util.AudioUtils;
+import com.tie.peter.Acoustics.GiutarTuner.tarsos.PitchDetectionResult;
+import com.tie.peter.Acoustics.GiutarTuner.tarsos.Yin;
+import com.tie.peter.Acoustics.GiutarTuner.util.AudioUtils;
 
 public class Tuner {
     private static final String TAG = Tuner.class.getSimpleName();

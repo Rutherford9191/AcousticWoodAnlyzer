@@ -1,4 +1,4 @@
-package com.example.joshua.Acoustics.ViolinTuner;
+package com.tie.peter.Acoustics.ViolinTuner;
 
 /*
   TarsosDSP's apparent range of what it can recognize:
